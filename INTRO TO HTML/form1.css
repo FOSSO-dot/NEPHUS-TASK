@@ -1,0 +1,67 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 150vh;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+.c{
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    width: 70px;
+height: 20px;
+
+
+}
+.one{
+    color:blue;
+}
+.two{
+    color:blue;
+}
+.three{
+    color:blue;
+}
+.four{
+    color:blue;
+}
+.five{
+    color:blue;
+}
+.d{ background-color: rgba(193, 193, 240, 0.274);
+    border-radius: 20px;
+    width: 230px;
+   
+}
+.a{
+   padding: 0px;
+}
+#name{
+  border-radius: 5px;
+  width: 200px;
+  height: 30px;
+  border: 1px solid black;
+  background-color: rgba(159, 158, 236, 0.171);
+ 
+}
+#mail{
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+    border: 1px solid black;
+    background-color: rgba(159, 158, 236, 0.171);
+}
+#password{
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+    border: 1px solid black;
+    background-color: rgba(159, 158, 236, 0.171);
+}
